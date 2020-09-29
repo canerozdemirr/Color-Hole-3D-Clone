@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eeb5fba-c4eb-483b-953c-e7fb70e232a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hole Scripts/HoleMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/CameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utilities/Tags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Scripts/GameStarter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HoleMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeDragger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ground.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/DangerousCubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/BarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameStarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utilities/Tags.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI Scripts/GameStarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/CubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hole Scripts/HoleMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dinKSnEJN6MbSfDVlyDZXTrOD1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eeb5fba-c4eb-483b-953c-e7fb70e232a3" name="Default Changelist" comment="" />
+      <created>1592916717088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592916717088</updated>
+      <workItem from="1592916719108" duration="15799000" />
+      <workItem from="1592991039056" duration="5808000" />
+      <workItem from="1601396400436" duration="513000" />
+      <workItem from="1601400032770" duration="1753000" />
+      <workItem from="1601402309523" duration="6279000" />
+      <workItem from="1601410279287" duration="2876000" />
+      <workItem from="1601413667682" duration="1577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
